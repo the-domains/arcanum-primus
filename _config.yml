@@ -23,6 +23,6 @@ color:
     - '#fdd674'
   brandStrength: 1
   lightness: 0.125
-  saturation: 1
+  saturation: 0.25
   rhythmicContrast: 1
 purpose: []
