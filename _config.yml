@@ -1,0 +1,28 @@
+name: Arcanum Primus
+favicon: null
+layout_spectrum: 0.37243750179186463
+typography_spectrum: 0.7367062941193581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7194415857084095
+  lightness: 0.47123049898073077
+  saturation: 0.8388071542140096
+  rhythmicContrast: 0.6362098490353674
+purpose: []
